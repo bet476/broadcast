@@ -4,7 +4,7 @@
 #EXT-X-TARGETDURATION:8
 #UPLYNK-SEGMENT: b402457fe26e48bc8f3ca5b78c268697,00000F0D,segment
 #UPLYNK-KEY:https://content-asae1-up-4.uplynk.com/check?b=b402457fe26e48bc8f3ca5b78c268697&c=6e3183aff0c24f579bcfb6e45c500bf7&pbs=e9b44cdc85364b698dab1ae9535ccffa
-#EXT-X-PROGRAM-DATE-TIME:2020-07-15T21:56:42.922000+00:00
+#EXT-X-PROGRAM-DATE-TIME:
 #EXT-X-KEY:METHOD=AES-128,URI="https://content-asae1-up-4.uplynk.com/check2?b=b402457fe26e48bc8f3ca5b78c268697&v=6e3183aff0c24f579bcfb6e45c500bf7&r=g&c=6e3183aff0c24f579bcfb6e45c500bf7&pbs=e9b44cdc85364b698dab1ae9535ccffa",IV=0x00000000000000000000000000000F0D
 #EXTINF:4.0960,
 https://x-live-espn-stgec.uplynk.com/ause/slices/b40/d09b16c953aa40c98dd8c513526aca5a/b402457fe26e48bc8f3ca5b78c268697/G00000F0D.ts?pbs=e9b44cdc85364b698dab1ae9535ccffa&_jt=l&chid=6e3183aff0c24f579bcfb6e45c500bf7&cloud=aws&geo=n20&si=0
